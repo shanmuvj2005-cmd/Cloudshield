@@ -1,0 +1,13 @@
+username,event_type,login_hour,login_frequency,download_count,session_duration,payload_size_mb,sensitive_file_ratio
+sarah.chen,Git_Repo_Clone,2.75,9,142,195,850.0,0.72
+marcus.vance,Drive_BulkExport,22.5,7,98,140,620.0,0.88
+elena.rostova,S3_CanaryAccess,14.0,6,28,110,55.0,0.45
+david.kim,S3_BulkDownload,4.2,11,180,220,4200.0,0.65
+alex.rivera,Figma_AssetDownload,10.2,4,11,65,14.5,0.01
+priya.patel,Drive_ViewFile,10.0,4,16,75,22.0,0.04
+michael.chang,K8s_ConfigMap,11.5,5,14,80,28.0,0.07
+samantha.wright,Workday_FormRead,9.3,3,6,42,7.5,0.03
+jordan.taylor,Quickbooks_Sync,10.0,3,8,50,12.0,0.02
+olivia.davis,Marketo_CampaignSave,14.2,4,12,60,18.0,0.04
+contractor_remote,VPN_SessionOpen,3.1,8,85,150,490.0,0.60
+support_agent,Zendesk_TicketBatch,11.0,4,9,55,10.0,0.01
